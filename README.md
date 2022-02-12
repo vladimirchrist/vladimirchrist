@@ -8,7 +8,7 @@
 
 &nbsp;<br>
 
-- 👨🏽‍💻 I’m currently working at [@optsoltecnology](https://www.optsol.com.br/)
+- 👨🏽‍💻 I’m currently working at [@optsoldev](https://www.optsol.com.br/)
 - 👯 I’m looking to collaborate on [OPTSOL components library for React](https://github.com/optsoldev/components-frontend-react);
 - 📫 How to reach me **vladimir.c.pereira@gmail.com**
 - ⚡️ Fun-Fact: I worked as a Refrigeration and Air-Conditioning Technician for 7 years;
