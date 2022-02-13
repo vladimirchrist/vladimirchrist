@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, nice to see you.</h1>
 
 <div  align="center">
-  <a href="https://linkedin.com/in/vladimir-christ" target="blank">
+  <a href="https://linkedin.com/in/vladimir-christ" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="vladimir-christ" height="30" width="30" />
   </a>
 </div>
